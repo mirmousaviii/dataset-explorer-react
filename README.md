@@ -13,7 +13,7 @@ So, you can Open http://localhost:3000 to view it in the browser.
 - [x] Simple UI by material-ui
 - [x] Use router
 - [x] lint by eslint
-- [x] Add JSDoc
+- [ ] Add JSDoc
 - [ ] Document by Storybook
 - [ ] Unit test by Jest
 - [ ] E2E test by Cypress
