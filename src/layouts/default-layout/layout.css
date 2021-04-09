@@ -2,10 +2,11 @@
     transform: translate3d(0, 0, 0);
     height: 100vh;
 }
-.main-content{
+
+.main-content {
     width: 80%;
     margin-left: 10%;
-    border-right: 1px solid rgba(0,0,0,0.12);
-    border-left: 1px solid rgba(0,0,0,0.12);
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
     height: calc(100% - 64px);
 }

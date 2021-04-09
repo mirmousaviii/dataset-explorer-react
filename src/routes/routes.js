@@ -1,5 +1,3 @@
-import Landing from '../pages/landing'
+import Landing from '../pages/landing';
 
-export const Routes = [
-    {key: 1, path: '/', component: Landing, exact: true}
-];
+export const Routes = [{ key: 1, path: '/', component: Landing, exact: true }];
